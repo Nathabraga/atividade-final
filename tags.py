@@ -1,6 +1,6 @@
 """Metadados de documentação da API (exibidos no Swagger em /docs)."""
 
-TITLE = "Loja de Games API"
+TITLE = "Loja de Jogos API"
 
 DESCRIPTION = """
 API para gerenciar o **catálogo de jogos** de uma loja de games, as

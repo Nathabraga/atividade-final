@@ -1,4 +1,4 @@
-# Loja de Games API
+# Loja de Jogos API
 
 API REST (FastAPI + SQLAlchemy) para gerenciar o catálogo de jogos, as plataformas
 (PlayStation, Xbox, PC...) e as avaliações dos clientes.
